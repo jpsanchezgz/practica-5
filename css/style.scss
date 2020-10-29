@@ -1,0 +1,13 @@
+$primary-color: #00a3ff;
+$color-white: #fff;
+$color-black: #000;
+$color-gray: #ccc;
+$color-pink: pink;
+
+.contenedor-padre {
+    background-color: $color-pink;
+
+    .square {
+        color: $color-gray;
+    }
+}

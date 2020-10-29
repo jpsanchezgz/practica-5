@@ -1,0 +1,8 @@
+.contenedor-padre {
+  background-color: pink;
+}
+
+.contenedor-padre .square {
+  color: #ccc;
+}
+/*# sourceMappingURL=style.css.map */
